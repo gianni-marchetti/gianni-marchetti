@@ -2,7 +2,7 @@
 Hello, I am Gianni Marchetti,<br>I have 17 years old<br>I am in the first year of a dev training
 
 
-# 💻 Tech Stack:
+# ⚙️ languages and tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gianni-marchetti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
