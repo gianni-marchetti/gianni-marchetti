@@ -9,6 +9,10 @@ Hello, I am Gianni Marchetti,<br>I have 17 years old<br>I am in the first year o
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gianni-marchetti&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gianni-marchetti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🌐 Socials:
+<a href="https://www.linkedin.com/in/gianni-marchetti-796990338/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+
 ---
 ![](https://visitcount.itsvg.in/api?id=gianni-marchetti&icon=0&color=0)
 
