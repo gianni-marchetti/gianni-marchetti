@@ -10,6 +10,6 @@ Hello, I am Gianni Marchetti,<br>I have 17 years old<br>I am in the first year o
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gianni-marchetti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gianni-marchetti&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=gianni-marchetti&icon=0&color=0)
 
 
