@@ -13,6 +13,9 @@ Hello, I am Gianni Marchetti,<br>I have 17 years old<br>I am in the first year o
 <a href="https://www.linkedin.com/in/gianni-marchetti-796990338/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Hrdz44YC) 
+
+[![](https://visitcount.itsvg.in/api?id=gggg&icon=0&color=0)](https://visitcount.i
 ---
 ![](https://visitcount.itsvg.in/api?id=gianni-marchetti&icon=0&color=0)
 
