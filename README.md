@@ -15,7 +15,6 @@ Hello, I am Gianni Marchetti,<br>I have 17 years old<br>I am in the first year o
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Hrdz44YC) 
 
-[![](https://visitcount.itsvg.in/api?id=gggg&icon=0&color=0)](https://visitcount.i
 ---
 ![](https://visitcount.itsvg.in/api?id=gianni-marchetti&icon=0&color=0)
 
